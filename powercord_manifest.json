@@ -1,0 +1,8 @@
+{
+    "name": "Generic Theme Name",
+    "version": "1.0.0",
+    "author": "Captain#3175",
+    "license": "None",
+    "description": "yet another generic theme",
+    "theme": "theme.css"
+}

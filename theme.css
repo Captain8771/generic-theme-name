@@ -1,0 +1,15 @@
+:root {
+    --background-primary: #111111 !important;
+    --background-secondary: #121212 !important;
+    --background-tertiary: #000000 !important;
+    --background-tertiary-2: #333333 !important;
+    --channeltextarea-background: #121212 !important;
+    --mouseX: 0px;
+    --mouseY: 0px;
+  }
+
+.peopleList-3c4jOR, .container-3baos1 {
+  background-color: var(--background-primary);
+}
+
+
